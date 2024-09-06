@@ -11,7 +11,10 @@
 
 ## 적용 방법
 
-- 작성 예정
+```shell
+ln -s ~/dotfiles/tmux/.tmux.conf ~
+ln -s ~/dotfiles/tmux/.tmux.conf.local ~
+```
 
 .tmux
 =====
