@@ -9,6 +9,8 @@
 set -g default-terminal "xterm-256color" #!important
 # 가로 화면 분할 더 직관적으로 단축키 변경
 bind | split-window -h
+# panes 동시 입력 단축키
+bind C-y setw synchronize-panes
 
 
 # -- bindings ------------------------------------------------------------------
