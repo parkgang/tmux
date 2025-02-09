@@ -1,6 +1,7 @@
 # Info
 
-> [!IMPORTANT] > [dotfiles](https://github.com/parkgang/dotfiles) `서브모듈` 로 관리됩니다.
+> [!IMPORTANT]
+> [dotfiles](https://github.com/parkgang/dotfiles) `서브모듈` 로 관리됩니다.
 
 ## 개요
 
